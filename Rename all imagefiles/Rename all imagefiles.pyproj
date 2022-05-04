@@ -12,6 +12,7 @@
     <Name>Rename all imagefiles</Name>
     <RootNamespace>Rename all imagefiles</RootNamespace>
     <InterpreterId>CondaEnv|CondaEnv|yolov5</InterpreterId>
+    <SuppressEnvironmentCreationPrompt>True</SuppressEnvironmentCreationPrompt>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
     <DebugSymbols>true</DebugSymbols>
